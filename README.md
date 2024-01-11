@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Mitigating risks, anticipating inconsistency since 2019<br>📚 I'm currently learning  Cypress API Testing, RabbitMQ, MongoDB<br>🎯 Goals: ...Never stop learning!<br>🎲 Fun fact: ...First-time dad!</p>
+<p align="left">✨ Mitigating risks, anticipating inconsistency since 2019<br>🎯 Goals: ...Never stop learning!<br>🎲 Fun fact: ...First-time dad!</p>
 
 ###
 
